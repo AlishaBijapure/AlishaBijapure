@@ -6,7 +6,7 @@
   </a>
 </div>
 
-### 🦇 `[ ＳＹＳＴＥＭ_ＳＴＡＴＵＳ_ＯＮＬＩＮＥ ]`
+### `[ ＳＹＳＴＥＭ ＳＴＡＴＵＳ : ＯＮＬＩＮＥ ]`
 
 > `I am a Software Engineer operating at the intersection of aesthetic design and artificial intelligence.`
 > `My work strips away bloated frameworks in favor of micro-optimized, raw performance.`

@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f051c,F93262,4a00e0&height=250&section=header&text=Alisha%20Bijapure&fontSize=70&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20&fontColor=ffffff&descColor=e0e0e0&animation=fadeIn" />
+  <img src="https://github.com/AlishaBijapure/BooksAndBricks/raw/main/images/profile-header.svg" width="100%" alt="Alisha Bijapure Profile Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&pause=1000&color=F93262&center=true&vCenter=true&width=800&lines=Building+sleek,+premium+interfaces.;Architecting+intelligent+ML+systems.;Obsessed+with+performance+and+aesthetics." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=F93262&center=true&vCenter=true&width=800&lines=Building+sleek,+premium+interfaces.;Architecting+intelligent+ML+systems.;Obsessed+with+performance+and+aesthetics." alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@ I am a Software Engineer operating at the intersection of aesthetic design and a
 
 <div align="center">
   <a href="https://github.com/AlishaBijapure">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishaBijapure&theme=radical&background=0f051c&hide_border=true" width="98%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishaBijapure&theme=radical&background=0f051c&hide_border=true" width="60%" />
   </a>
 </div>
 

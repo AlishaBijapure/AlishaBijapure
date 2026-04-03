@@ -2,17 +2,18 @@
   <img src="https://github.com/AlishaBijapure/BooksAndBricks/raw/main/images/profile-header.svg" width="100%" alt="Alisha Bijapure Profile Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=F93262&center=true&vCenter=true&width=800&lines=Building+sleek,+premium+interfaces.;Architecting+intelligent+ML+systems.;Obsessed+with+performance+and+aesthetics." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=20&pause=1000&color=A020F0&center=true&vCenter=true&width=850&lines=Building+cybernetic,+premium+interfaces.;Architecting+intelligent+ML+systems.;Obsessed+with+performance+and+aesthetics." alt="Typing SVG" />
   </a>
 </div>
 
-### 🦇 System Status
+### 🦇 `[ ＳＹＳＴＥＭ_ＳＴＡＴＵＳ_ＯＮＬＩＮＥ ]`
 
-I am a Software Engineer operating at the intersection of aesthetic design and artificial intelligence. My work strips away bloated frameworks in favor of micro-optimized, raw performance.
+> `I am a Software Engineer operating at the intersection of aesthetic design and artificial intelligence.`
+> `My work strips away bloated frameworks in favor of micro-optimized, raw performance.`
 
-- ⚡ **Current Focus:** All about AI-ML, natively integrated AI Systems, WebGL / Three.js, and Pure UI/UX architectures.
-- 🖤 **Signature Projects:** [Books & Bricks Café](https://booksandbricks.in/) | [ScholarshipAI](#)
-- 🧠 **Architecture Stack:** Vanilla JavaScript (ES Modules), HTML5/CSS3, Python
+- ⚡ **`ＣＵＲＲＥＮＴ_ＦＯＣＵＳ :`** `All about AI-ML, natively integrated AI Systems, WebGL / Three.js, and Pure UI/UX architectures.`
+- 🖤 **`ＳＩＧＮＡＴＵＲＥ_ＰＲＯＪＥＣＴＳ :`** `[` [Books & Bricks Café](https://booksandbricks.in/) `] // [` [ScholarshipAI](#) `]`
+- 🧠 **`ＡＲＣＨＩＴＥＣＴＵＲＥ_ＳＴＡＣＫ :`** `Vanilla JavaScript (ES Modules), HTML5/CSS3, Python`
 
 <br>
 

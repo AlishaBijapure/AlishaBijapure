@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f051c,F93262,4a00e0&height=250&section=header&text=Alisha%20Bijapure&fontSize=70&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20&fontColor=ffffff&descColor=e0e0e0&animation=fadeIn" />
 
-<!--
-**AlishaBijapure/AlishaBijapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&pause=1000&color=F93262&center=true&vCenter=true&width=800&lines=Building+sleek,+premium+interfaces.;Architecting+intelligent+ML+systems.;Obsessed+with+performance+and+aesthetics." alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### 🦇 System Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Software Engineer operating at the intersection of aesthetic design and artificial intelligence. My work strips away bloated frameworks in favor of micro-optimized, raw performance.
+
+- ⚡ **Current Focus:** All about AI-ML, natively integrated AI Systems, WebGL / Three.js, and Pure UI/UX architectures.
+- 🖤 **Signature Projects:** [Books & Bricks Café](https://booksandbricks.in/) | [ScholarshipAI](#)
+- 🧠 **Architecture Stack:** Vanilla JavaScript (ES Modules), HTML5/CSS3, Python
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/AlishaBijapure">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlishaBijapure&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f051c" width="48%" />
+  </a>
+  <a href="https://github.com/AlishaBijapure">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaBijapure&theme=radical&hide_border=true&layout=compact&bg_color=0f051c" width="48%" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/AlishaBijapure">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>

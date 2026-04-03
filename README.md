@@ -18,10 +18,7 @@ I am a Software Engineer operating at the intersection of aesthetic design and a
 
 <div align="center">
   <a href="https://github.com/AlishaBijapure">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlishaBijapure&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f051c" width="48%" />
-  </a>
-  <a href="https://github.com/AlishaBijapure">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaBijapure&theme=radical&hide_border=true&layout=compact&bg_color=0f051c" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishaBijapure&theme=radical&background=0f051c&hide_border=true" width="98%" />
   </a>
 </div>
 
